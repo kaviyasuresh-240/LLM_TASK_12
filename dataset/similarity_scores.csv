@@ -1,0 +1,101 @@
+Query,Rank,Similarity_Score,Retrieved_Document
+What is diabetes?,1,0.5010331869125366,"Diabetes is a chronic health condition that affects how the body processes blood sugar. Type 1 diabetes occurs when the body cannot produce insulin, w"
+What is diabetes?,2,1.3310275077819824,"Nutrition is the process by which the body obtains essential nutrients from food. A balanced diet provides carbohydrates, proteins, fats, vitamins, mi"
+What is diabetes?,3,1.368006706237793,"Hypertension, also known as high blood pressure, is a condition in which the force of blood against artery walls remains consistently high. Risk facto"
+What is diabetes?,4,1.4304273128509521,"Heart disease refers to a range of conditions affecting the heart and blood vessels. Common types include coronary artery disease, arrhythmias, and he"
+What is diabetes?,5,1.4934087991714478,"Depression is a common mental health disorder characterized by persistent sadness, loss of interest in activities, fatigue, and changes in sleep or ap"
+How does AI help doctors?,1,0.680966317653656,"Medical imaging plays a vital role in disease diagnosis and treatment planning. Technologies such as X-rays, CT scans, MRI scans, and ultrasound provi"
+How does AI help doctors?,2,0.6940634250640869,"Artificial Intelligence is transforming healthcare by improving diagnosis, treatment planning, and patient care. AI systems can analyze large volumes "
+How does AI help doctors?,3,0.9806132912635803,"Healthcare chatbots are software systems designed to assist patients and healthcare providers. These chatbots can answer frequently asked questions, s"
+How does AI help doctors?,4,1.1578928232192993,Robotic surgery is an advanced medical technology that assists surgeons in performing complex procedures with enhanced precision and control. Using ro
+How does AI help doctors?,5,1.268386960029602,Telemedicine allows healthcare professionals to provide medical services remotely through digital technologies. Patients can consult doctors using vid
+What is telemedicine?,1,0.48123860359191895,Telemedicine allows healthcare professionals to provide medical services remotely through digital technologies. Patients can consult doctors using vid
+What is telemedicine?,2,1.1251604557037354,Robotic surgery is an advanced medical technology that assists surgeons in performing complex procedures with enhanced precision and control. Using ro
+What is telemedicine?,3,1.245736837387085,"Healthcare chatbots are software systems designed to assist patients and healthcare providers. These chatbots can answer frequently asked questions, s"
+What is telemedicine?,4,1.2669856548309326,"Wearable health technologies include smartwatches, fitness trackers, and medical monitoring devices that collect health-related information in real ti"
+What is telemedicine?,5,1.3105297088623047,Electronic Health Records (EHRs) are digital versions of patients' medical histories maintained by healthcare providers. EHR systems store information
+What causes high blood pressure?,1,0.553993821144104,"Hypertension, also known as high blood pressure, is a condition in which the force of blood against artery walls remains consistently high. Risk facto"
+What causes high blood pressure?,2,1.1957236528396606,"Heart disease refers to a range of conditions affecting the heart and blood vessels. Common types include coronary artery disease, arrhythmias, and he"
+What causes high blood pressure?,3,1.4832009077072144,"Diabetes is a chronic health condition that affects how the body processes blood sugar. Type 1 diabetes occurs when the body cannot produce insulin, w"
+What causes high blood pressure?,4,1.5951720476150513,"Anxiety disorders involve excessive fear, nervousness, and worry that interfere with normal activities. Symptoms may include rapid heartbeat, restless"
+What causes high blood pressure?,5,1.5968061685562134,"Depression is a common mental health disorder characterized by persistent sadness, loss of interest in activities, fatigue, and changes in sleep or ap"
+How do vaccines work?,1,0.7270175218582153,Vaccination is one of the most effective public health measures for preventing infectious diseases. Vaccines work by stimulating the immune system to 
+How do vaccines work?,2,1.486237645149231,"Cancer is a group of diseases characterized by uncontrolled growth and spread of abnormal cells. Different types of cancer can affect various organs, "
+How do vaccines work?,3,1.606116771697998,"Preventive healthcare focuses on reducing the risk of diseases before they occur. Preventive measures include routine health screenings, vaccinations,"
+How do vaccines work?,4,1.6868294477462769,Robotic surgery is an advanced medical technology that assists surgeons in performing complex procedures with enhanced precision and control. Using ro
+How do vaccines work?,5,1.694455862045288,"Healthcare chatbots are software systems designed to assist patients and healthcare providers. These chatbots can answer frequently asked questions, s"
+What is preventive healthcare?,1,0.4771457314491272,"Preventive healthcare focuses on reducing the risk of diseases before they occur. Preventive measures include routine health screenings, vaccinations,"
+What is preventive healthcare?,2,1.1854052543640137,Vaccination is one of the most effective public health measures for preventing infectious diseases. Vaccines work by stimulating the immune system to 
+What is preventive healthcare?,3,1.2950254678726196,Patient data privacy is a fundamental requirement in healthcare. Medical records contain sensitive personal information that must be protected against
+What is preventive healthcare?,4,1.2960700988769531,Electronic Health Records (EHRs) are digital versions of patients' medical histories maintained by healthcare providers. EHR systems store information
+What is preventive healthcare?,5,1.3003770112991333,"Nutrition is the process by which the body obtains essential nutrients from food. A balanced diet provides carbohydrates, proteins, fats, vitamins, mi"
+How do healthcare chatbots help patients?,1,0.29615068435668945,"Healthcare chatbots are software systems designed to assist patients and healthcare providers. These chatbots can answer frequently asked questions, s"
+How do healthcare chatbots help patients?,2,0.9713464975357056,Telemedicine allows healthcare professionals to provide medical services remotely through digital technologies. Patients can consult doctors using vid
+How do healthcare chatbots help patients?,3,1.044982671737671,"Artificial Intelligence is transforming healthcare by improving diagnosis, treatment planning, and patient care. AI systems can analyze large volumes "
+How do healthcare chatbots help patients?,4,1.1398001909255981,Robotic surgery is an advanced medical technology that assists surgeons in performing complex procedures with enhanced precision and control. Using ro
+How do healthcare chatbots help patients?,5,1.191371202468872,"Wearable health technologies include smartwatches, fitness trackers, and medical monitoring devices that collect health-related information in real ti"
+How is AI used in medical imaging?,1,0.4299110174179077,"Medical imaging plays a vital role in disease diagnosis and treatment planning. Technologies such as X-rays, CT scans, MRI scans, and ultrasound provi"
+How is AI used in medical imaging?,2,0.7343097925186157,"Artificial Intelligence is transforming healthcare by improving diagnosis, treatment planning, and patient care. AI systems can analyze large volumes "
+How is AI used in medical imaging?,3,1.1188507080078125,Robotic surgery is an advanced medical technology that assists surgeons in performing complex procedures with enhanced precision and control. Using ro
+How is AI used in medical imaging?,4,1.213496208190918,"Healthcare chatbots are software systems designed to assist patients and healthcare providers. These chatbots can answer frequently asked questions, s"
+How is AI used in medical imaging?,5,1.3221962451934814,Electronic Health Records (EHRs) are digital versions of patients' medical histories maintained by healthcare providers. EHR systems store information
+What causes heart disease?,1,0.4951466917991638,"Heart disease refers to a range of conditions affecting the heart and blood vessels. Common types include coronary artery disease, arrhythmias, and he"
+What causes heart disease?,2,1.0592525005340576,"Hypertension, also known as high blood pressure, is a condition in which the force of blood against artery walls remains consistently high. Risk facto"
+What causes heart disease?,3,1.4091027975082397,"Nutrition is the process by which the body obtains essential nutrients from food. A balanced diet provides carbohydrates, proteins, fats, vitamins, mi"
+What causes heart disease?,4,1.4536705017089844,"Preventive healthcare focuses on reducing the risk of diseases before they occur. Preventive measures include routine health screenings, vaccinations,"
+What causes heart disease?,5,1.476900577545166,"Diabetes is a chronic health condition that affects how the body processes blood sugar. Type 1 diabetes occurs when the body cannot produce insulin, w"
+How can patient data be protected?,1,0.4591131806373596,Patient data privacy is a fundamental requirement in healthcare. Medical records contain sensitive personal information that must be protected against
+How can patient data be protected?,2,0.9494211673736572,Electronic Health Records (EHRs) are digital versions of patients' medical histories maintained by healthcare providers. EHR systems store information
+How can patient data be protected?,3,1.1760132312774658,"Preventive healthcare focuses on reducing the risk of diseases before they occur. Preventive measures include routine health screenings, vaccinations,"
+How can patient data be protected?,4,1.2613062858581543,"Artificial Intelligence is transforming healthcare by improving diagnosis, treatment planning, and patient care. AI systems can analyze large volumes "
+How can patient data be protected?,5,1.2787691354751587,"Wearable health technologies include smartwatches, fitness trackers, and medical monitoring devices that collect health-related information in real ti"
+What is mental health?,1,0.35219523310661316,"Mental health refers to the emotional, psychological, and social well-being of an individual. It influences how people think, feel, and behave in dail"
+What is mental health?,2,0.8864485621452332,"Depression is a common mental health disorder characterized by persistent sadness, loss of interest in activities, fatigue, and changes in sleep or ap"
+What is mental health?,3,1.1985567808151245,"Anxiety disorders involve excessive fear, nervousness, and worry that interfere with normal activities. Symptoms may include rapid heartbeat, restless"
+What is mental health?,4,1.373401165008545,"Regular physical activity improves cardiovascular health, strengthens muscles and bones, and helps maintain a healthy body weight. Exercise also suppo"
+What is mental health?,5,1.4625954627990723,"Preventive healthcare focuses on reducing the risk of diseases before they occur. Preventive measures include routine health screenings, vaccinations,"
+What is depression?,1,0.4094075560569763,"Depression is a common mental health disorder characterized by persistent sadness, loss of interest in activities, fatigue, and changes in sleep or ap"
+What is depression?,2,1.0918712615966797,"Mental health refers to the emotional, psychological, and social well-being of an individual. It influences how people think, feel, and behave in dail"
+What is depression?,3,1.3371726274490356,"Anxiety disorders involve excessive fear, nervousness, and worry that interfere with normal activities. Symptoms may include rapid heartbeat, restless"
+What is depression?,4,1.4190880060195923,"Diabetes is a chronic health condition that affects how the body processes blood sugar. Type 1 diabetes occurs when the body cannot produce insulin, w"
+What is depression?,5,1.5702989101409912,"Heart disease refers to a range of conditions affecting the heart and blood vessels. Common types include coronary artery disease, arrhythmias, and he"
+What are anxiety disorders?,1,0.44303208589553833,"Anxiety disorders involve excessive fear, nervousness, and worry that interfere with normal activities. Symptoms may include rapid heartbeat, restless"
+What are anxiety disorders?,2,1.096678376197815,"Depression is a common mental health disorder characterized by persistent sadness, loss of interest in activities, fatigue, and changes in sleep or ap"
+What are anxiety disorders?,3,1.2038500308990479,"Mental health refers to the emotional, psychological, and social well-being of an individual. It influences how people think, feel, and behave in dail"
+What are anxiety disorders?,4,1.3223551511764526,"Heart disease refers to a range of conditions affecting the heart and blood vessels. Common types include coronary artery disease, arrhythmias, and he"
+What are anxiety disorders?,5,1.4888826608657837,"Cancer is a group of diseases characterized by uncontrolled growth and spread of abnormal cells. Different types of cancer can affect various organs, "
+Why is sleep important?,1,0.6496831774711609,"Sleep plays a critical role in maintaining physical and mental health. During sleep, the body repairs tissues, strengthens the immune system, and supp"
+Why is sleep important?,2,1.5389952659606934,"Wearable health technologies include smartwatches, fitness trackers, and medical monitoring devices that collect health-related information in real ti"
+Why is sleep important?,3,1.5696392059326172,"Anxiety disorders involve excessive fear, nervousness, and worry that interfere with normal activities. Symptoms may include rapid heartbeat, restless"
+Why is sleep important?,4,1.5996679067611694,"Nutrition is the process by which the body obtains essential nutrients from food. A balanced diet provides carbohydrates, proteins, fats, vitamins, mi"
+Why is sleep important?,5,1.6108152866363525,"Depression is a common mental health disorder characterized by persistent sadness, loss of interest in activities, fatigue, and changes in sleep or ap"
+Why is nutrition important?,1,0.5926068425178528,"Nutrition is the process by which the body obtains essential nutrients from food. A balanced diet provides carbohydrates, proteins, fats, vitamins, mi"
+Why is nutrition important?,2,1.4166040420532227,"Preventive healthcare focuses on reducing the risk of diseases before they occur. Preventive measures include routine health screenings, vaccinations,"
+Why is nutrition important?,3,1.4590126276016235,"Regular physical activity improves cardiovascular health, strengthens muscles and bones, and helps maintain a healthy body weight. Exercise also suppo"
+Why is nutrition important?,4,1.5065569877624512,"Mental health refers to the emotional, psychological, and social well-being of an individual. It influences how people think, feel, and behave in dail"
+Why is nutrition important?,5,1.5309323072433472,"Wearable health technologies include smartwatches, fitness trackers, and medical monitoring devices that collect health-related information in real ti"
+What are the benefits of exercise?,1,0.6754152178764343,"Regular physical activity improves cardiovascular health, strengthens muscles and bones, and helps maintain a healthy body weight. Exercise also suppo"
+What are the benefits of exercise?,2,1.321506142616272,"Nutrition is the process by which the body obtains essential nutrients from food. A balanced diet provides carbohydrates, proteins, fats, vitamins, mi"
+What are the benefits of exercise?,3,1.3641324043273926,"Heart disease refers to a range of conditions affecting the heart and blood vessels. Common types include coronary artery disease, arrhythmias, and he"
+What are the benefits of exercise?,4,1.376225471496582,"Preventive healthcare focuses on reducing the risk of diseases before they occur. Preventive measures include routine health screenings, vaccinations,"
+What are the benefits of exercise?,5,1.3956689834594727,"Mental health refers to the emotional, psychological, and social well-being of an individual. It influences how people think, feel, and behave in dail"
+What is cancer?,1,0.6082712411880493,"Cancer is a group of diseases characterized by uncontrolled growth and spread of abnormal cells. Different types of cancer can affect various organs, "
+What is cancer?,2,1.5218359231948853,"Heart disease refers to a range of conditions affecting the heart and blood vessels. Common types include coronary artery disease, arrhythmias, and he"
+What is cancer?,3,1.5233433246612549,"Mental health refers to the emotional, psychological, and social well-being of an individual. It influences how people think, feel, and behave in dail"
+What is cancer?,4,1.5410315990447998,"Medical imaging plays a vital role in disease diagnosis and treatment planning. Technologies such as X-rays, CT scans, MRI scans, and ultrasound provi"
+What is cancer?,5,1.585097312927246,"Depression is a common mental health disorder characterized by persistent sadness, loss of interest in activities, fatigue, and changes in sleep or ap"
+What are electronic health records?,1,0.37546390295028687,Electronic Health Records (EHRs) are digital versions of patients' medical histories maintained by healthcare providers. EHR systems store information
+What are electronic health records?,2,0.9510610103607178,Patient data privacy is a fundamental requirement in healthcare. Medical records contain sensitive personal information that must be protected against
+What are electronic health records?,3,1.1056197881698608,"Wearable health technologies include smartwatches, fitness trackers, and medical monitoring devices that collect health-related information in real ti"
+What are electronic health records?,4,1.1186845302581787,Telemedicine allows healthcare professionals to provide medical services remotely through digital technologies. Patients can consult doctors using vid
+What are electronic health records?,5,1.2939211130142212,"Artificial Intelligence is transforming healthcare by improving diagnosis, treatment planning, and patient care. AI systems can analyze large volumes "
+How do wearable devices help healthcare?,1,0.5426579713821411,"Wearable health technologies include smartwatches, fitness trackers, and medical monitoring devices that collect health-related information in real ti"
+How do wearable devices help healthcare?,2,0.9233099222183228,Telemedicine allows healthcare professionals to provide medical services remotely through digital technologies. Patients can consult doctors using vid
+How do wearable devices help healthcare?,3,1.1279523372650146,"Preventive healthcare focuses on reducing the risk of diseases before they occur. Preventive measures include routine health screenings, vaccinations,"
+How do wearable devices help healthcare?,4,1.1851636171340942,Electronic Health Records (EHRs) are digital versions of patients' medical histories maintained by healthcare providers. EHR systems store information
+How do wearable devices help healthcare?,5,1.2097718715667725,"Healthcare chatbots are software systems designed to assist patients and healthcare providers. These chatbots can answer frequently asked questions, s"
+What is robotic surgery?,1,0.2847633361816406,Robotic surgery is an advanced medical technology that assists surgeons in performing complex procedures with enhanced precision and control. Using ro
+What is robotic surgery?,2,1.1603221893310547,"Medical imaging plays a vital role in disease diagnosis and treatment planning. Technologies such as X-rays, CT scans, MRI scans, and ultrasound provi"
+What is robotic surgery?,3,1.2307233810424805,"Healthcare chatbots are software systems designed to assist patients and healthcare providers. These chatbots can answer frequently asked questions, s"
+What is robotic surgery?,4,1.329511046409607,Telemedicine allows healthcare professionals to provide medical services remotely through digital technologies. Patients can consult doctors using vid
+What is robotic surgery?,5,1.3383095264434814,"Artificial Intelligence is transforming healthcare by improving diagnosis, treatment planning, and patient care. AI systems can analyze large volumes "
